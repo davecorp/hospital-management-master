@@ -17,7 +17,7 @@ body{
     line-height: 1.7;
     color: #777;
     padding: 30px;
-    background-image: linear-gradient(to right bottom, rgba(111, 201, 213, 0.75),rgba(163, 54, 54, 0.46)),url(img/hero1.jpeg);
+    background-image: linear-gradient(to right bottom, rgba(111, 201, 213, 0.75),rgba(54, 163, 142, 0.67)),url(img/hero1.jpeg);
     background-size: cover;
     background-position: center;
     position: relative;
